@@ -9,10 +9,10 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
 
   quotes:Quote[] = [
-    new Quote(1,"Obama",'Yes we can, Obama legacy','Barrack', new Date(2020,3,14)),
-    new Quote(1,"Elechi",'Sunset in Biafra','Amadi', new Date(2020,3,14)),
-    new Quote(1,"Chinua",'A man of the people','Achebe', new Date(2020,3,14)),
-    new Quote(1,"Ngugi",'I will marry when I want','Wathiongo', new Date(2020,3,14)),
+    new Quote(1,"Maurice ",'It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it, Her book mrs Gooze','Switzer', new Date(2020,3,14)),
+    new Quote(1,"William",'The fool doth think he is wise, but the wise man knows himself to be a fool.','Shakespeer', new Date(2020,3,14)),
+    new Quote(1,"Mark",'Whenever you find yourself on the side of the majority, it is time to reform','Twain', new Date(2020,3,14)),
+    new Quote(1,"Aristotal",'Knowing yourself is the beginning of all wisdom','The great', new Date(2020,3,14)),
    
   ];
 
