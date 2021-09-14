@@ -18,6 +18,7 @@ There is a small issue that will be fixed in the coming days... an auto-refresh.
 ## Technologies Used
 HTML
 CSS
+Bootstrap
 Javascript/Typescript
 
 ## Support and contact details
